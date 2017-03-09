@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Weight_test2</string>
+    <string name="title">计算你的标准体重</string>
+    <string name="sex">性别：</string>
+    <string name="M">男性</string>
+    <string name="F">女性</string>
+    <string name="height">身高：</string>
+    <string name="cm">cm</string>
+    <string name="calculation">计算</string>
+</resources>
