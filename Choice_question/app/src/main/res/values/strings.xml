@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Choice_question</string>
+    <string name="question">The Williams live ______ 188 Fleet Street</string>
+    <string name="A">on</string>
+    <string name="B">at</string>
+    <string name="C">of</string>
+    <string name="D">in</string>
+    <string name="sure">确定</string>
+    <string name="cancel">取消</string>
+    <string name="back">返回上一页</string>
+</resources>
