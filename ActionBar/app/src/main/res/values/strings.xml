@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ActionBarDemo</string>
+    <string name="message">信息</string>
+    <string name="Tel_book">电话簿</string>
+    <string name="hello">hello 我正在测试ActionBar!</string>
+    <string name="menu">请按Menu键</string>
+    <string name="save">保存</string>
+    <string name="exit">退出</string>
+    <string name="contextmenu">上下文菜单的载体</string>
+    <string name="New">新建</string>
+    <string name="Open">打开</string>
+    <string name="BenDi">本地</string>
+    <string name="Internet">网络</string>
+    <string name="Find">搜索</string>
+    <string name="submenu">hello  world  MenuSUB</string>
+</resources>
