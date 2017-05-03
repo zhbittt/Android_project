@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DatePickerDialogExamp</string>
+    <string name="btn_change_time">修改日期</string>
+</resources>
