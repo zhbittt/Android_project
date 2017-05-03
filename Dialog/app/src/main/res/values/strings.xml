@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dialog</string>
+    <string name="sure">确定</string>
+    <string name="cancle">取消</string>
+    <string name="e_sure">点击确定</string>
+    <string name="e_cancle">点击取消</string>
+</resources>

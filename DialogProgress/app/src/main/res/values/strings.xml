@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DialogProgress</string>
+    <string name="hello">Hello World, DialogProgress!</string>
+    <string name="btn_begin">开始</string>
+</resources>
