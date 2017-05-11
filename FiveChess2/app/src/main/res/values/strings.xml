@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">mainGame</string>
+    <string name="Role_black">黑方</string>
+    <string name="Role_white">白方</string>
+    <string name="sure">继续</string>
+    <string name="cancle">取消</string>
+    <string name="Hello">Hello World, mainActivity!</string>
+</resources>
